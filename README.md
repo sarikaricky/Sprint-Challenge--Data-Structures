@@ -5,7 +5,7 @@
 * **Just a friendly Reminder** Don't fret or get anxious about this, this is a no-pressure assessment that is only going to help guide you here in the near future. This is NOT a pass/fail situation. 
 
 ## Questions
-1. What are the order of insertions/removals for the following data structures?
+1. What are the order of insertions/removals for the following data structures?  A stack is referred to as a last-in-first-out (LIFO) structure, meaning that the most recently added item is the first one removed. A stack is a last-in-first-out (LIFO) structure while a queue is a first-in-first-out (FIFO) structure.
    - **Stack**
    - **Queue**
 2. What is the retreival time complexity for the following data structures?

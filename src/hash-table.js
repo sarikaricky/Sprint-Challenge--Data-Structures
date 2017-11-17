@@ -68,5 +68,12 @@ class HashTable {
     return retrieved ? retrieved[1] : undefined;
   }
 }
+  let bucket; 
+  if (this.storage.get(index)) {
+    bucket = 
+    this.storage.get(index);
+  } else {
+    bucket = [];
+  }
 
 module.exports = HashTable;
